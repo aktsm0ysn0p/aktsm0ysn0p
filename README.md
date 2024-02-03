@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/aktsm0ysn0p"><img src="https://api.daily.dev/devcards/b7fb58bfed264050af8b4359dc27c542.png?r=i5e" width="400" alt="aika's Dev Card"/></a>
 <!--
 **aktsm0ysn0p/aktsm0ysn0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
